@@ -1,0 +1,10 @@
+data/config.json
+data/client_secrets.json
+data/token.pickle
+data/chats/
+data/analytics/
+__pycache__/
+.env
+node_modules/
+.next/
+*.pyc
