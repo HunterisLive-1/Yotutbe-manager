@@ -5,6 +5,7 @@ data/chats/
 data/analytics/
 __pycache__/
 .env
+.env.example
 node_modules/
 .next/
 *.pyc
